@@ -18,7 +18,7 @@ export default function Home() {
             <div className={styles.description}>
                <p>
                   Get hello by editing&nbsp;
-                  <code className={styles.code}>Tuấn test code 123</code>
+                  <code className={styles.code}>Tuấn test brand ok</code>
                </p>
                <div>
                   <a
